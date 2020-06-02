@@ -1,0 +1,27 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+main {
+  display: flex;
+  /* background-color: antiquewhite; */
+  justify-content: center;
+  align-items: center;
+}
+
+.btn-container {
+  display: flex;
+  justify-content: center;
+}
+
+input {
+  width: 341.78px;
+  height: 20px;
+  /* border-radius: 10px; */
+}
+
+button {
+  width: 82.8167px;
+  height: 26px;
+}
