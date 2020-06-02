@@ -25,6 +25,13 @@ main {
   align-items: center;
 }
 
+footer {
+  background-color: #111026;
+  color: #D99B29;
+  text-align: center;
+  padding: 15px;
+}
+
 .btn-container {
   display: flex;
   justify-content: center;
@@ -57,8 +64,4 @@ button:hover {
 
 .equal {
   background-color: #2F6073;
-}
-
-input::-ms-value {
-  text-align: end;
 }
